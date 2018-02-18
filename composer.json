@@ -1,0 +1,11 @@
+{
+    "name": "phperf/phpunit-bench-data",
+    "require": {
+        "swaggest/json-schema": "*|^0.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPUnitBenchmarkData\\": "src/"
+        }
+    }
+}
